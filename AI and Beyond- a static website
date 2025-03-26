@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AI and Beyond</title>
+</head>
+<style>
+    #a{
+background-color: darkgreen;
+h5{
+    background-color: rgb(37, 37, 37);
+}
+}
+#b{
+    margin-left: 10px;
+    margin-right:20px;
+    border-style: ridge;
+}
+#c{
+    margin-left: 10px;
+    margin-right:20px;
+    border-style:ridge;
+}
+table{
+    background-color:"grey";}
+    th,td{
+    text-align:left;
+    }
+    th{
+        background-color: rgb(194, 189, 184);
+        color: rgb(59, 53, 53);
+    }
+    td{
+        background-color: rgb(216, 212, 207);
+    }
+    #d{
+        margin-left: 10px;
+        margin-right:20px;
+        border-style:ridge;
+    }
+    #e{
+        margin-left: 10px;
+        margin-right:20px;
+        border-style:ridge;
+    }
+    button{
+        background-color: blueviolet;
+    }
+</style>
+<link rel="stylesheet" href="ainb.css">
+<body>
+    <div id="a">
+        <h1><font color="white"><center>Welcome to AI and Beyond Techcon2025</center></font></h1>
+        <p><font color="white"><center>The Ultimate Technology and Programming Conference</center></font></p>
+        <br><h5><font color="white"><center>About&nbsp;&nbsp;&nbsp;&nbsp;Schedule&nbsp;&nbsp;&nbsp;&nbsp;Speakers&nbsp;&nbsp;&nbsp;&nbsp;Contact</center></font></h5>
+    </div>
+    <div id="b">
+        <p><b><font color="purple">About the Event</font></b></p>
+        <p>AI and Beyond Techcon25 brings young techno minds under a single cloud of creativeness.Join us on this auspicious day.Let's explore the world of AI and Technology </p>
+    </div> <br>
+    <div id="c">
+        <p><b><font color="purple">Event Schedule</font></b></p>
+        <table>
+            <tr><th>Time</th>
+                <th>Session</th>
+                <th>Contest</th></tr>
+            <tr>
+                <td>9.00 AM</td>
+                <td>Opening Keynot</td>
+                <td>GeeksForGeeks Coding Platform</td>
+            </tr>
+            <tr>
+                <td>10.30 AM</td>
+                <td>Understanding AI and Machine Learning</td>
+                <td>Mr.Aravind Kumar</td>
+            </tr>
+            <tr>
+                <td>1.00 PM</td>
+                <td>Lunch Break</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>2.00 PM</td>
+                <td>Exploring the Future of Cloud Computing</td>
+                <td>Mrs.Neha Gupta</td>
+            </tr></table></div><br>
+            <div id="d">
+                <p><b><font color="purple">Meet the Speakers</font></b><p>
+                <p><font color="purple">Dr.Radhika:</font>AI expert and Researcher</p>
+                <p><font color="purple">Mr.Radhika:</font>Senior Data Science at TechWave</p>
+                <p><font color="purple">Mrs.Neha Gupta:</font>Cloud Computing Specialist</p>
+            </div><br>
+            <div id="e">
+                <p><b><font color="purple">Contact Us</font></b><p>
+                <lable>Name:</lable><br>
+                <input><br><br>
+                <lable>Email:</lable><br><br>
+                <input type:"email"><br>
+                Message:<br><br>
+                <textarea></textarea><br>
+                <center><button><font color="White">Send</font></button></center>
+            </div>  
+</body>
+</html>
